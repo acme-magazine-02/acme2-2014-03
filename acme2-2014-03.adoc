@@ -1,0 +1,12 @@
+= ACME, the Magazine - March 2014
+Sarah White
+v1.1, 2014-03-01T00:00:00+00:00
+:doctype: book
+:producer: ACME
+
+:codedir: acme2-2014-03-graphitefriction/code
+:imagesdir: acme2-2014-03-graphitefriction/images
+:listing-caption: Listing SW -
+:figure-caption: Figure SW -
+:idprefix: sw_
+include::acme2-2014-03-graphitefriction/acme2-2014-03-graphitefriction.adoc[]
